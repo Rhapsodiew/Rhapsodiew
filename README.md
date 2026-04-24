@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rhapsodiew 
 
-<!--
-**Rhapsodiew/Rhapsodiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building projects to understand how things work.
 
-Here are some ideas to get you started:
+Enjoy both backend and frontend.  
+Focus on APIs, clean structure, and simple systems that make sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use tools like Docker when needed, but the goal stays on building products over managing infrastructure.
+
+## Tech I use often
+
+TypeScript, Python  
+Node.js (NestJS)  
+React  
+PostgreSQL  
+
+## Fun facts
+
+* Fighting game enjoyer
+* Chocolate hater (strawberry > chocolate)
+* Classical music listener
