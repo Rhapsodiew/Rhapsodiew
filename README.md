@@ -17,5 +17,4 @@ PostgreSQL
 ## Fun facts
 
 * Fighting game enjoyer
-* Chocolate hater (strawberry > chocolate)
 * Classical music listener
